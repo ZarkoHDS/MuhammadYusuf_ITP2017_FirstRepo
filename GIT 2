@@ -1,0 +1,26 @@
+message="Hello, my name is Andy\nnice to meet you"
+print(message)
+
+message="nice to meet you too"
+print(message)
+
+name="king kanesalovelive"
+print(name.title())
+
+first_name="muhammad"
+last_name="yusuf"
+full_name=first_name+" "+last_name
+print(full_name)
+
+name= "andi"
+message="hello "+name.title()+ ",how do you do?"
+print(message)
+
+name="muhammad andi yusuf"
+print(name.title())
+
+message='one of samurai said "Kill the part of you that believe it cannot survive without someone else"'
+print(message)
+
+
+

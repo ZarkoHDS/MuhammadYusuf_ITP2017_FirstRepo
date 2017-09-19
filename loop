@@ -1,7 +1,0 @@
-name= "andi"
-for i in range(0,10):
-    print(name)
-
-data=['A', 'C', 'B', 'E', 'D']
-for i in data:
-    print(i)
